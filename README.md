@@ -3,7 +3,8 @@
 ## Project Overview
 This project addresses a critical healthcare challenge as part of the CIBMTR (Center for International Blood and Marrow Transplant Research) competition on "Equity in post-HCT Survival Predictions." The goal is to develop predictive models for post-Hematopoietic Cell Transplantation (HCT) survival outcomes that are both accurate and fair across diverse patient populations, addressing disparities related to socioeconomic status, race, and geographic factors.
 
-![CIBMTR Competition Leaderboard](https://i.imgur.com/placeholder.jpg)
+![Screenshot 2025-05-19 100258](https://github.com/user-attachments/assets/e9fc54a3-fa3f-4001-a869-3704625b0cc3)
+
 *Human expert baseline accuracy: 0.62553*
 
 ## Challenge Description
